@@ -1,0 +1,25 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+#content {
+  overflow: auto;
+  height: 100%;
+}
+#nav, #dodatki, #footer {
+  background-color: silver;
+  padding: 10px;
+  margin: 10px;
+}
+.artykul1, .artykul2, .artykul3 {
+  background-color: silver;
+  width: 300px;
+  float: left;
+  margin: 10px;
+  margin-top: 20px;
+}
+li {
+  display: inline;
+  padding: 5px;
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ukłąd siatki.</title>
+    <link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="css/text.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="../stylesheets/960.css" />
+    <style type="text/css">
+
+      * {
+        font-family: Arial, Verdana, sans-serif;
+        color: #665544;
+        text-align: center;
+      }
+      #nav, #dodatki, .article, #footer {
+        background-color: #efefef;
+        margin-top: 20px;
+        padding: 10px 0px 5px 0px;
+      }
+      #dodatki, .article {
+        height: 100px;
+      }
+      li {
+        display: inline;
+        padding: 5px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container_12 clearfix">
+      <div id="header" class="grid_12"><!-- początek nagłówka strony -->
+        <h1>Moje logo</h1>
+        <div id="nav"><!-- elementy nawigacji -->
+          <ul>
+            <li><a href="../hello-world.html">Hello World</a></li>
+            <li><a href="../index.html">Strona główna</a></li>
+            <li><a href="">Usługi</a></li>
+            <li><a href="">O mnie</a></li>
+            <li><a href="">Kontakt</a></li>
+          </ul>
+        </div>
+      </div><!-- koniec nagłówka strony -->
+      <div id="dodatki" class="grid_12">
+        <p>Dodatek opis</p>
+      </div>
+      <div class="article grid_4">
+        Kolumna pierwsza
+      </div>
+      <div class="article grid_6">
+        Kolumna druga
+      </div>
+      <div class="article grid_2">
+        Kolumna trzecia
+      </div>
+      
+      <div id="footer" class="grid_12"><!-- początek stopki -->
+        <p>&copy; Wszelkie prawa zastrzeżone.
+        Utworzono w 2017 r.</p>
+      </div><!-- koniec stopki -->
+    </div><!-- koniec elementu container -->
+    
+  </body>
+</html>
