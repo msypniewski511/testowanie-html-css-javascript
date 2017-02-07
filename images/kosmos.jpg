@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, wolna encyklopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Strona_główna","wgTitle":"Strona główna","wgCurRevisionId":45999232,"wgRevisionId":45999232,"wgArticleId":2956678,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strona główna"],"wgBreakFrames":false,"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgMonthNamesShort":["","sty","lut","mar","kwi","maj","cze","lip","sie","wrz","paź","lis","gru"],"wgRelevantPageName":"Wikipedia:Strona_główna","wgRelevantArticleId":2956678,"wgRequestId":"WJnNoApAAEAAAL5A0wwAAABJ","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"pl","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"polski","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.small-references":"ready","ext.gadget.main-page-css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@05ejm55",function($,jQuery,require,module){mw.user.options.set({"variant":"pl"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.scribunto.logs","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.maps","ext.gadget.heading-icons","ext.gadget.refToolbar","ext.gadget.edit-buttons","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.edit-summary-warning","ext.gadget.wikibugs","ext.gadget.nuxTBKeys","ext.gadget.enhanced-upload","ext.gadget.map-toggler","ext.gadget.ReferenceTooltips","ext.gadget.main-page-js","ext.gadget.pope","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pl&amp;modules=ext.gadget.main-page-css%2Csmall-references%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=pl&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.10"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/atom+xml" title="Kanał informacyjny Wikipedii o ilustracjach na medal" href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Kanał informacyjny Wikipedii o wybranych rocznicach" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Kanał informacyjny Wikipedii o nowych artykułach" href="/w/api.php?action=featuredfeed&amp;feed=dyk&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (pl)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pl.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_Strona_główna rootpage-Wikipedia_Strona_główna skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="pl">Wikipedia:Strona główna</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Z Wikipedii, wolnej encyklopedii</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Skocz do:					<a href="#mw-head">nawigacja</a>, 					<a href="#p-search">szukaj</a>
+				</div>
+				<div id="mw-content-text" lang="pl" dir="ltr" class="mw-content-ltr"><div class="section" id="main-page">
+<div class="header" id="main-page-header">
+<div id="main-page-intro">
+<p><span id="main-page-welcome"><strong>Witaj w <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedii</a>,</strong></span> <a href="/wiki/Wolna_tre%C5%9B%C4%87" title="Wolna treść">wolnej</a> <a href="/wiki/Encyklopedia" title="Encyklopedia">encyklopedii</a>, którą <a href="/wiki/Pomoc:Pierwsze_kroki" title="Pomoc:Pierwsze kroki">każdy może redagować</a>.<br />
+<a href="/wiki/Wikipedia:Liczba_artyku%C5%82%C3%B3w_w_polskoj%C4%99zycznej_Wikipedii" title="Wikipedia:Liczba artykułów w polskojęzycznej Wikipedii">1&#160;206&#160;227</a> artykułów, w tym 3168 <a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii" title="Wikipedia:Wyróżniona zawartość Wikipedii">wyróżnionych</a></p>
+</div>
+<div id="main-page-portals">
+<p><span><a href="/wiki/Portal:Nauki_%C5%9Bcis%C5%82e_i_przyrodnicze" title="Portal:Nauki ścisłe i przyrodnicze">Nauki ścisłe i&#160;przyrodnicze</a>&#160;• <a href="/wiki/Portal:Nauki_spo%C5%82eczne_i_humanistyczne" title="Portal:Nauki społeczne i humanistyczne">Nauki społeczne i&#160;humanistyczne</a>&#160;• <a href="/wiki/Portal:Technika" title="Portal:Technika">Technika</a>&#160;• <a href="/wiki/Portal:Geografia" title="Portal:Geografia">Geografia</a>&#160;• <a href="/wiki/Portal:Historia" title="Portal:Historia">Historia</a>&#160;• <a href="/wiki/Portal:Kultura" title="Portal:Kultura">Kultura</a>&#160;• <a href="/wiki/Portal:Spo%C5%82ecze%C5%84stwo" title="Portal:Społeczeństwo">Społeczeństwo</a>&#160;• <a href="/wiki/Portal:Sport" title="Portal:Sport">Sport</a>&#160;• <a href="/wiki/Portal:Religioznawstwo" title="Portal:Religioznawstwo">Religia</a>&#160;• <a href="/wiki/Portal:Polska" title="Portal:Polska">Polska</a></span> <span><a href="/wiki/Portal:Portale" title="Portal:Portale">Więcej portali</a>&#160;• <a href="/wiki/Wikipedia:Indeks_hase%C5%82" title="Wikipedia:Indeks haseł">Indeks haseł</a>&#160;• <a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne" title="Portal:Kategorie Główne">Przegląd kategorii</a></span></p>
+</div>
+<div id="main-page-wiki-events">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tydzie%C5%84_tematyczny_logo_propozycja.png/20px-Tydzie%C5%84_tematyczny_logo_propozycja.png" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tydzie%C5%84_tematyczny_logo_propozycja.png/30px-Tydzie%C5%84_tematyczny_logo_propozycja.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tydzie%C5%84_tematyczny_logo_propozycja.png/40px-Tydzie%C5%84_tematyczny_logo_propozycja.png 2x" data-file-width="500" data-file-height="487" />&#160;&#160;&#160;Trwa <b><a href="/wiki/Wikiprojekt:Tygodnie_tematyczne/Tydzie%C5%84_Polityczny_II" title="Wikiprojekt:Tygodnie tematyczne/Tydzień Polityczny II">Tydzień Polityczny II</a></b>. Dołącz do akcji!</p>
+</div>
+</div>
+<div id="mf-main-page">
+<div class="article" id="main-page-content">
+<div id="main-page-column1">
+<div class="section" id="main-page-didyouknow">
+<h2><span class="mw-headline" id="Czy_wiesz.E2.80.A6"><span class="nomobile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/38px-PL_Wiki_CzyWiesz_ikona.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/57px-PL_Wiki_CzyWiesz_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/76px-PL_Wiki_CzyWiesz_ikona.svg.png 2x" data-file-width="38" data-file-height="38" /></span> Czy wiesz…</span></h2>
+<p>Z <a href="/wiki/Specjalna:Nowe_strony" title="Specjalna:Nowe strony">nowych</a> i ostatnio rozbudowanych artykułów w Wikipedii:</p>
+<div class="floatright"><a href="/wiki/Plik:Francesco_Sabatini_by_Goya.jpg" class="image"><img alt="Francesco Sabatini by Goya.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Francesco_Sabatini_by_Goya.jpg/100px-Francesco_Sabatini_by_Goya.jpg" width="100" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Francesco_Sabatini_by_Goya.jpg/150px-Francesco_Sabatini_by_Goya.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Francesco_Sabatini_by_Goya.jpg/200px-Francesco_Sabatini_by_Goya.jpg 2x" data-file-width="1552" data-file-height="2100" /></a></div>
+<p>…kim jest <b><a href="/wiki/M%C4%99%C5%BCczyzna_z_szabl%C4%85_szermiercz%C4%85" title="Mężczyzna z szablą szermierczą">mężczyzna z szablą szermierczą</a></b> z portretu pędzla Goi? <span style="font-size:smaller; line-height:130%"><i>(na ilustracji)</i></span></p>
+<p>…<b><a href="/wiki/Historia_Majotty" title="Historia Majotty">jak</a></b> doszło do tego, że Majotta pozostała częścią Francji?</p>
+<p>…co można zaliczyć do <b><a href="/wiki/Paratekst" title="Paratekst">paratekstu</a></b>?</p>
+<p>…który z poetów romantycznych zakończył <b><a href="/wiki/C%C3%B3ra_s%C5%82awy" title="Córa sławy">cykl sonetów</a></b> słowami „<i>piekło zdrajcom, niebo Słowianom</i>”?</p>
+<p>…co porasta „<b><a href="/wiki/%C5%81%C4%85ki_nad_Ciekiem_Gogolewskim" title="Łąki nad Ciekiem Gogolewskim">Łąki nad Ciekiem Gogolewskim</a></b>”?</p>
+<p>…czym się charakteryzują kątniki z rodzaju <i><b><a href="/wiki/Tegenaria" title="Tegenaria">Tegenaria</a></b></i>?</p>
+<p>…gdzie <b><a href="/wiki/Centra_Pobytowe_na_Euro_2012" title="Centra Pobytowe na Euro 2012">mieszkali i trenowali</a></b> piłkarze podczas Euro 2012?<br style="clear:right;" /></p>
+<div style="text-align: right; margin-top: 5px;"><i><a href="/wiki/Wikiprojekt:Czy_wiesz/propozycje" title="Wikiprojekt:Czy wiesz/propozycje">Propozycje do ekspozycji</a> • <a href="/wiki/Pomoc:Jak_napisa%C4%87_nowy_artyku%C5%82" title="Pomoc:Jak napisać nowy artykuł">Jak napisać nowy artykuł?</a></i></div>
+</div>
+<div class="section" id="main-page-news">
+<h2><span class="mw-headline" id="Wydarzenia"><span class="nomobile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/38px-PL_Wiki_Aktualnosci_ikona.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/57px-PL_Wiki_Aktualnosci_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/76px-PL_Wiki_Aktualnosci_ikona.svg.png 2x" data-file-width="38" data-file-height="38" /></span> Wydarzenia</span></h2>
+<div class="floatright" style="width: 100px; line-height: 1.5ex;"><a href="/wiki/Plik:Luge_world_cup_Oberhof_2016_by_Stepro_IMG_7166_LR5.jpg" class="image" title="Erin Hamlin"><img alt="Erin Hamlin" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Luge_world_cup_Oberhof_2016_by_Stepro_IMG_7166_LR5.jpg/100px-Luge_world_cup_Oberhof_2016_by_Stepro_IMG_7166_LR5.jpg" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Luge_world_cup_Oberhof_2016_by_Stepro_IMG_7166_LR5.jpg/150px-Luge_world_cup_Oberhof_2016_by_Stepro_IMG_7166_LR5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Luge_world_cup_Oberhof_2016_by_Stepro_IMG_7166_LR5.jpg/200px-Luge_world_cup_Oberhof_2016_by_Stepro_IMG_7166_LR5.jpg 2x" data-file-width="2236" data-file-height="2236" /></a><span style="font-size:smaller; line-height:130%"><a href="/wiki/Erin_Hamlin" title="Erin Hamlin">Erin Hamlin</a></span></div>
+<ul>
+<li><a href="/wiki/Maroko" title="Maroko">Maroko</a> zostało 55. członkiem <b><a href="/wiki/Unia_Afryka%C5%84ska" title="Unia Afrykańska">Unii Afrykańskiej</a></b>, 33 lata po wystąpieniu z ówczesnej <a href="/wiki/Organizacja_Jedno%C5%9Bci_Afryka%C5%84skiej" title="Organizacja Jedności Afrykańskiej">OJA</a> z powodu uznania przez tę organizację <a href="/wiki/Sahara_Zachodnia" title="Sahara Zachodnia">Sahary Zachodniej</a> <span style="font-size:smaller; line-height:130%">(<a href="/wiki/Stycze%C5%84_2017#30_stycznia" title="Styczeń 2017">30 stycznia</a>)</span></li>
+<li>W finale, rozgrywanych we Francji, <b><a href="/wiki/Mistrzostwa_%C5%9Awiata_w_Pi%C5%82ce_R%C4%99cznej_M%C4%99%C5%BCczyzn_2017" title="Mistrzostwa Świata w Piłce Ręcznej Mężczyzn 2017">mistrzostw świata w piłce ręcznej mężczyzn</a></b> <a href="/wiki/Reprezentacja_Francji_w_pi%C5%82ce_r%C4%99cznej_m%C4%99%C5%BCczyzn" title="Reprezentacja Francji w piłce ręcznej mężczyzn">reprezentacja gospodarzy</a> pokonała <a href="/wiki/Reprezentacja_Norwegii_w_pi%C5%82ce_r%C4%99cznej_m%C4%99%C5%BCczyzn" title="Reprezentacja Norwegii w piłce ręcznej mężczyzn">Norwegię</a> 33:26 <span style="font-size:smaller; line-height:130%">(<a href="/wiki/Stycze%C5%84_2017#29_stycznia" title="Styczeń 2017">29 stycznia</a>)</span></li>
+<li>Zakończyły się, rozgrywane w Innsbrucku, <b><a href="/wiki/Mistrzostwa_%C5%9Awiata_w_Saneczkarstwie_2017" title="Mistrzostwa Świata w Saneczkarstwie 2017">mistrzostwa świata w saneczkarstwie</a></b> <span style="font-size:smaller; line-height:130%"><i>(na&#160;zdjęciu trzykrotna medalistka, w tym złota w sprincie, Amerykanka <a href="/wiki/Erin_Hamlin" title="Erin Hamlin">Erin Hamlin</a>)</i></span> <span style="font-size:smaller; line-height:130%">(<a href="/wiki/Stycze%C5%84_2017#29_stycznia" title="Styczeń 2017">29 stycznia</a>)</span></li>
+<li>W finałach gry pojedynczej wielkoszlemowego turnieju tenisowego <b><a href="/wiki/Australian_Open_2017" title="Australian Open 2017">Australian Open</a></b> Amerykanka <a href="/wiki/Serena_Williams" title="Serena Williams">Serena Williams</a> pokonała swoją siostrę <a href="/wiki/Venus_Williams" title="Venus Williams">Venus</a> 6:4, 6:4, a Szwajcar <a href="/wiki/Roger_Federer" title="Roger Federer">Roger Federer</a> pokonał Hiszpana <a href="/wiki/Rafael_Nadal" title="Rafael Nadal">Rafaela Nadala</a> 6:4, 3:6, 6:1, 3:6, 6:3 <span style="font-size:smaller; line-height:130%">(<a href="/wiki/Stycze%C5%84_2017#28_stycznia" title="Styczeń 2017">28</a>–<a href="/wiki/Stycze%C5%84_2017#29_stycznia" title="Styczeń 2017">29 stycznia</a>)</span></li>
+<li><a href="/wiki/Donald_Trump" title="Donald Trump">Donald Trump</a> podpisał <b><a href="/wiki/Rozporz%C4%85dzenie_wykonawcze_13769" title="Rozporządzenie wykonawcze 13769">rozporządzenie wykonawcze 13769</a></b>, ograniczające możliwość przyjazdu do USA obywatelom siedmiu państw muzułmańskich <span style="font-size:smaller; line-height:130%">(<a href="/wiki/Stycze%C5%84_2017#27_stycznia" title="Styczeń 2017">27 stycznia</a>)</span></li>
+<li>W tygodniku „<a href="/wiki/Science" title="Science">Science</a>” ukazała się praca opisująca metodę uzyskania <b><a href="/wiki/Metaliczny_wod%C3%B3r" title="Metaliczny wodór">metalicznego wodoru</a></b> <span style="font-size:smaller; line-height:130%">(<a href="/wiki/Stycze%C5%84_2017#27_stycznia" title="Styczeń 2017">27 stycznia</a>)</span></li>
+</ul>
+<p><b><a href="/wiki/Zmarli_w_lutym_2017" title="Zmarli w lutym 2017">Zmarli</a></b>: <a href="/wiki/Roger_Walkowiak" title="Roger Walkowiak">Roger Walkowiak</a> • <a href="/wiki/Joost_van_der_Westhuizen" title="Joost van der Westhuizen">Joost van der Westhuizen</a> • <a href="/wiki/Drit%C3%ABro_Agolli" title="Dritëro Agolli">Dritëro Agolli</a> • <a href="/wiki/Predrag_Matvejevi%C4%87" title="Predrag Matvejević">Predrag Matvejević</a> • <a href="/wiki/%C3%89tienne_Tshisekedi" title="Étienne Tshisekedi">Étienne Tshisekedi</a> • <a href="/wiki/John_Wetton" title="John Wetton">John Wetton</a></p>
+<div style="text-align:right; margin-top:5px;"><i><a href="/wiki/Portal:Aktualno%C5%9Bci" title="Portal:Aktualności">Więcej…</a></i></div>
+</div>
+<div class="section" id="main-page-anniversaries">
+<h2><span class="mw-headline" id="Rocznice"><span class="nomobile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PL_Wiki_Kalendarium_ikona.svg/38px-PL_Wiki_Kalendarium_ikona.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PL_Wiki_Kalendarium_ikona.svg/57px-PL_Wiki_Kalendarium_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PL_Wiki_Kalendarium_ikona.svg/76px-PL_Wiki_Kalendarium_ikona.svg.png 2x" data-file-width="38" data-file-height="38" /></span> Rocznice</span></h2>
+<p><b><a href="/wiki/7_lutego" title="7 lutego">7 lutego</a></b>: <a href="/wiki/Imieniny" title="Imieniny">imieniny</a> obchodzą m.in.: <a href="/wiki/Moj%C5%BCesz_(imi%C4%99)" title="Mojżesz (imię)">Mojżesz</a>, <a href="/wiki/Ryszard" title="Ryszard">Ryszard</a> i <a href="/wiki/Teodor" title="Teodor">Teodor</a><br />
+Okrągłe, dziesięcioletnie rocznice:</p>
+<div class="floatright" style="width: 100px; line-height: 1.5ex;"><a href="/wiki/Plik:Ghhardy@72.jpg" class="image" title="Godfrey Harold Hardy"><img alt="Godfrey Harold Hardy" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ghhardy%4072.jpg/100px-Ghhardy%4072.jpg" width="100" height="118" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ghhardy%4072.jpg/150px-Ghhardy%4072.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ghhardy%4072.jpg/200px-Ghhardy%4072.jpg 2x" data-file-width="312" data-file-height="368" /></a><small><a href="https://commons.wikimedia.org/wiki/File:Ghhardy@72.jpg" class="extiw" title="c:File:Ghhardy@72.jpg">Godfrey Harold Hardy</a></small></div>
+<div class="floatright" style="width: 100px; line-height: 1.5ex;"><a href="/wiki/Plik:Monika_Brodka_Life_Festival_O%C5%9Bwi%C4%99cim_2013_(4).jpg" class="image" title="Monika Brodka"><img alt="Monika Brodka" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Monika_Brodka_Life_Festival_O%C5%9Bwi%C4%99cim_2013_%284%29.jpg/100px-Monika_Brodka_Life_Festival_O%C5%9Bwi%C4%99cim_2013_%284%29.jpg" width="100" height="133" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Monika_Brodka_Life_Festival_O%C5%9Bwi%C4%99cim_2013_%284%29.jpg/150px-Monika_Brodka_Life_Festival_O%C5%9Bwi%C4%99cim_2013_%284%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Monika_Brodka_Life_Festival_O%C5%9Bwi%C4%99cim_2013_%284%29.jpg/200px-Monika_Brodka_Life_Festival_O%C5%9Bwi%C4%99cim_2013_%284%29.jpg 2x" data-file-width="768" data-file-height="1024" /></a><small><a href="https://commons.wikimedia.org/wiki/File:Monika_Brodka_Life_Festival_O%C5%9Bwi%C4%99cim_2013_(4).jpg" class="extiw" title="c:File:Monika Brodka Life Festival Oświęcim 2013 (4).jpg">Monika Brodka</a></small></div>
+<ul>
+<li><a href="/wiki/1807" title="1807">1807</a> – <a href="/wiki/Wojny_napoleo%C5%84skie" title="Wojny napoleońskie">wojny napoleońskie</a>: pierwszy dzień <b><a href="/wiki/Bitwa_pod_Prusk%C4%85_I%C5%82aw%C4%85" title="Bitwa pod Pruską Iławą">bitwy pod Pruską Iławą</a></b></li>
+<li><a href="/wiki/1867" title="1867">1867</a> – we <a href="/wiki/Lw%C3%B3w" title="Lwów">Lwowie</a> założono pierwsze gniazdo <b>„<a href="/wiki/Polskie_Towarzystwo_Gimnastyczne_%E2%80%9ESok%C3%B3%C5%82%E2%80%9D" title="Polskie Towarzystwo Gimnastyczne „Sokół”">Sokoła</a>”</b></li>
+<li><a href="/wiki/1877" title="1877">1877</a> – urodzili się: polski kompozytor, dyrygent i wirtuoz <b><a href="/wiki/Feliks_Nowowiejski" title="Feliks Nowowiejski">Feliks Nowowiejski</a></b>, autor muzyki do <a href="/wiki/Rota_(Maria_Konopnicka)" title="Rota (Maria Konopnicka)">Roty</a> <a href="/wiki/Maria_Konopnicka" title="Maria Konopnicka">Marii Konopnickiej</a> oraz angielski matematyk <b><a href="/wiki/Godfrey_Harold_Hardy" title="Godfrey Harold Hardy">Godfrey Harold Hardy</a></b> <small>(<i>na&#160;fotografii</i>)</small>, pasjonat <a href="/wiki/Matematyka_czysta" title="Matematyka czysta">czystej matematyki</a></li>
+<li><a href="/wiki/1907" title="1907">1907</a> – urodził się polski nauczyciel <b><a href="/wiki/Walenty_Szwajcer" title="Walenty Szwajcer">Walenty Szwajcer</a></b>, odkrywca <a href="/wiki/Biskupin_(stanowisko_archeologiczne)" title="Biskupin (stanowisko archeologiczne)">szczątków prehistorycznej osady</a> <a href="/wiki/Kultura_%C5%82u%C5%BCycka" title="Kultura łużycka">kultury łużyckiej</a> w Biskupinie</li>
+<li><a href="/wiki/1987" title="1987">1987</a> – urodziła się polska wokalistka popowa <b><a href="/wiki/Monika_Brodka" title="Monika Brodka">Monika Brodka</a></b> <small>(<i>na&#160;fotografii</i>)</small>; tegoż dnia zmarł polski aktor <b><a href="/wiki/Czes%C5%82aw_Wo%C5%82%C5%82ejko" title="Czesław Wołłejko">Czesław Wołłejko</a></b>, odtwórca roli tytułowej w filmie <i><a href="/wiki/M%C5%82odo%C5%9B%C4%87_Chopina" title="Młodość Chopina">Młodość Chopina</a></i><br style="clear:right;" />
+<div style="text-align:right; margin-top:5px;"><i><a href="/wiki/6_lutego" title="6 lutego">6 lutego</a> • <a href="/wiki/Kalendarium_dzie%C5%84_po_dniu" title="Kalendarium dzień po dniu">Kalendarium dzień po dniu</a> • <a href="/wiki/8_lutego" title="8 lutego">8 lutego</a></i></div>
+</li>
+</ul>
+</div>
+</div>
+<div id="main-page-column2">
+<div class="section" id="main-page-featured-article">
+<h2><span class="mw-headline" id="Artyku.C5.82_na_medal"><span class="nomobile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/38px-HSUtvald.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/57px-HSUtvald.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/76px-HSUtvald.svg.png 2x" data-file-width="156" data-file-height="156" /></span> Artykuł na medal</span></h2>
+<div style="float:right;margin:0.5em 0 0.4em 0.9em;"><a href="/wiki/Plik:Exposed_mango_tree_roots.jpg" class="image"><img alt="Exposed mango tree roots.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposed_mango_tree_roots.jpg/100px-Exposed_mango_tree_roots.jpg" width="100" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposed_mango_tree_roots.jpg/150px-Exposed_mango_tree_roots.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposed_mango_tree_roots.jpg/200px-Exposed_mango_tree_roots.jpg 2x" data-file-width="2000" data-file-height="1477" /></a></div>
+<b><a href="/wiki/Korze%C5%84" title="Korzeń">Korzeń</a></b> – organ roślinny, część <a href="/wiki/Sporofit" title="Sporofit">sporofitu</a>, która dostarcza roślinom <a href="/wiki/Woda" title="Woda">wodę</a> i <a href="/wiki/Sole_mineralne" title="Sole mineralne">sole mineralne</a>, przytwierdza <a href="/wiki/Ro%C5%9Bliny" title="Rośliny">rośliny</a> do podłoża, a u roślin wieloletnich może pełnić funkcję <a href="/wiki/Organ_spichrzowy" title="Organ spichrzowy">organu spichrzowego</a>. W wyniku przystosowania do warunków środowiska korzenie poszczególnych grup ekologicznych roślin pełnią dodatkowe funkcje. Korzenie tworzą silnie rozczłonkowany układ penetrujący podłoże, nazywany systemem korzeniowym. Stanowi on dolny biegun osiowych <a href="/wiki/Organizm" title="Organizm">organizmów</a> roślinnych, u których górny biegun to <a href="/wiki/P%C4%99d_(botanika)" title="Pęd (botanika)">pęd</a>. Korzenie w odróżnieniu od pędu nie wykształcają <a href="/wiki/Li%C5%9B%C4%87" title="Liść">liści</a> i zwykle rosną w dół, najczęściej są niezielone, choć niektóre korzenie powietrzne mogą zawierać <a href="/wiki/Chlorofile" title="Chlorofile">chlorofil</a>. Korzeń występuje niemal u wszystkich <a href="/wiki/Ro%C5%9Bliny_naczyniowe" title="Rośliny naczyniowe">roślin naczyniowych</a>, nieobecny jest jedynie u posiadających <a href="/wiki/Chwytniki" title="Chwytniki">chwytniki</a> <a href="/wiki/Psylotowe" title="Psylotowe">psylotowych</a> i niektórych roślin, u których korzeń zanikł wtórnie. <i><a href="/wiki/Korze%C5%84" title="Korzeń">Czytaj więcej…</a></i>
+<div style="text-align:right; margin-top:5px;"><i><a href="/wiki/Wikipedia:Artyku%C5%82y_na_medal" title="Wikipedia:Artykuły na medal">Inne artykuły na medal</a> • <a href="/wiki/Wikipedia:Propozycje_do_Artyku%C5%82%C3%B3w_na_medal" title="Wikipedia:Propozycje do Artykułów na medal">Jak wybieramy najlepsze?</a></i></div>
+</div>
+<div class="section" id="main-page-good-article">
+<h2><span class="mw-headline" id="Dobry_artyku.C5.82"><span class="nomobile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HSBra.svg/38px-HSBra.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HSBra.svg/57px-HSBra.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HSBra.svg/76px-HSBra.svg.png 2x" data-file-width="156" data-file-height="156" /></span> Dobry artykuł</span></h2>
+<div class="floatright"><a href="/wiki/Plik:Artist%27s_concept_of_Gliese_876_b.jpg" class="image"><img alt="Artist's concept of Gliese 876 b.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Artist%27s_concept_of_Gliese_876_b.jpg/100px-Artist%27s_concept_of_Gliese_876_b.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Artist%27s_concept_of_Gliese_876_b.jpg/150px-Artist%27s_concept_of_Gliese_876_b.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Artist%27s_concept_of_Gliese_876_b.jpg/200px-Artist%27s_concept_of_Gliese_876_b.jpg 2x" data-file-width="4000" data-file-height="3000" /></a></div>
+<p><b><a href="/wiki/Gliese_876_b" title="Gliese 876 b">Gliese 876 b</a></b> – <a href="/wiki/Planeta_pozas%C5%82oneczna" title="Planeta pozasłoneczna">planeta pozasłoneczna</a> okrążająca gwiazdę <a href="/wiki/Gliese_876" title="Gliese 876">Gliese 876</a>. Planeta została odkryta w 1998 roku przez dwa niezależne zespoły astronomów: jeden prowadzony przez <a href="/wiki/Geoffrey_Marcy" title="Geoffrey Marcy">Geoffreya Marcy'ego</a> i drugi prowadzony przez Xaviera Delfosse. Była pierwszą znaną planetą orbitującą wokół <a href="/wiki/Czerwony_karze%C5%82" title="Czerwony karzeł">czerwonego karła</a>. Gliese 876 b jest częścią <a href="/wiki/Uk%C5%82ad_planetarny" title="Układ planetarny">systemu planetarnego</a> Gliese 876, w skład którego wchodzą również odkryte później planety <a href="/wiki/Gliese_876_c" title="Gliese 876 c">Gliese 876 c</a>, <a href="/wiki/Gliese_876_d" title="Gliese 876 d">Gliese 876 d</a> oraz <a href="/wiki/Gliese_876_e" title="Gliese 876 e">Gliese 876 e</a>. Z uwagi na masę planety jest prawdopodobne, że Gliese 876 b jest <a href="/wiki/Gazowy_olbrzym" title="Gazowy olbrzym">gazowym gigantem</a> nie posiadającym powierzchni <a href="/wiki/Cia%C5%82o_sta%C5%82e" title="Ciało stałe">stałej</a>. Ze względu na to, że planeta została odkryta metodą pośrednią, wiele z jej cech takich jak <a href="/wiki/Promie%C5%84_(geometria)" title="Promień (geometria)">promień</a>, skład chemiczny, czy <a href="/wiki/Temperatura" title="Temperatura">temperatura</a> jest nieznanych. Zakładając skład chemiczny podobny do składu <a href="/wiki/Jowisz" title="Jowisz">Jowisza</a>, nie wyklucza się, że w chłodniejszych regionach planety mogą powstawać chmury z <a href="/wiki/Para_wodna" title="Para wodna">pary wodnej</a>. <i><a href="/wiki/Gliese_876_b" title="Gliese 876 b">Czytaj więcej…</a></i></p>
+<div style="text-align:right; margin-top:5px;"><i><a href="/wiki/Wikipedia:Dobre_Artyku%C5%82y" title="Wikipedia:Dobre Artykuły">Inne dobre artykuły</a> • <a href="/wiki/Pomoc:Styl_%E2%80%93_poradnik_dla_autor%C3%B3w" title="Pomoc:Styl – poradnik dla autorów">Jak pisać w stylu encyklopedycznym?</a></i></div>
+</div>
+<div class="section" id="main-page-featured-image">
+<h2><span class="mw-headline" id="Ilustracja_na_medal"><span class="nomobile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/38px-PL_Wiki_InM_ikona.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/57px-PL_Wiki_InM_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/76px-PL_Wiki_InM_ikona.svg.png 2x" data-file-width="38" data-file-height="38" /></span> Ilustracja na medal</span></h2>
+<div style="text-align:center; clear:both;"><a href="/wiki/Plik:M%C5%82oda_sowa_%C5%9Bnie%C5%BCna.jpg" class="image"><img alt="Młoda sowa śnieżna.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/M%C5%82oda_sowa_%C5%9Bnie%C5%BCna.jpg/364px-M%C5%82oda_sowa_%C5%9Bnie%C5%BCna.jpg" width="364" height="400" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/M%C5%82oda_sowa_%C5%9Bnie%C5%BCna.jpg/546px-M%C5%82oda_sowa_%C5%9Bnie%C5%BCna.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/M%C5%82oda_sowa_%C5%9Bnie%C5%BCna.jpg/728px-M%C5%82oda_sowa_%C5%9Bnie%C5%BCna.jpg 2x" data-file-width="2702" data-file-height="2970" /></a>
+<div style="margin-top:5px;"><a href="/wiki/Puchacz_%C5%9Bnie%C5%BCny" title="Puchacz śnieżny">Puchacz śnieżny</a><br /></div>
+</div>
+<div style="text-align:right; margin-top:5px;"><i><a href="/wiki/Wikipedia:Ilustracja_na_medal" title="Wikipedia:Ilustracja na medal">Inne ilustracje na medal</a> • <a href="/wiki/Pomoc:Ilustrowanie" title="Pomoc:Ilustrowanie">Jak zilustrować artykuł?</a></i></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer" id="main-page-footer">
+<div class="section" id="main-page-sister-projects">
+<h2><span class="mw-headline" id="Siostrzane_projekty_Wikipedii"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/38px-Wikimedia-logo-circle.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/57px-Wikimedia-logo-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/76px-Wikimedia-logo-circle.svg.png 2x" data-file-width="700" data-file-height="700" /> Siostrzane projekty Wikipedii</span></h2>
+<div style="float:left; width:33%; min-width:200px;">
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="https://pl.wiktionary.org/wiki/" title="Wikisłownik"><img alt="Wikisłownik" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/WiktionaryPl_nodesc.svg/35px-WiktionaryPl_nodesc.svg.png" width="35" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/WiktionaryPl_nodesc.svg/53px-WiktionaryPl_nodesc.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/WiktionaryPl_nodesc.svg/70px-WiktionaryPl_nodesc.svg.png 2x" data-file-width="122" data-file-height="117" /></a></div>
+</div>
+</div>
+<p><b><a href="https://pl.wiktionary.org/wiki/" class="extiw" title="wikt:">Wikisłownik</a></b><br />
+Wielojęzyczny słownik</p>
+</div>
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="https://pl.wikinews.org/wiki/" title="Wikinews"><img alt="Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/45px-Wikinews-logo.svg.png" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/68px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/90px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div>
+</div>
+</div>
+<p><b><a href="https://pl.wikinews.org/wiki/" class="extiw" title="n:">Wikinews</a></b><br />
+Serwis informacyjny</p>
+</div>
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="https://pl.wikiquote.org/wiki/" title="Wikicytaty"><img alt="Wikicytaty" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png" width="30" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div>
+</div>
+</div>
+<p><b><a href="https://pl.wikiquote.org/wiki/" class="extiw" title="q:">Wikicytaty</a></b><br />
+Kolekcja cytatów</p>
+</div>
+</div>
+<div style="float:left; width:33%; min-width:200px;">
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="//wikiversity.org/" title="Wikiwersytet"><img alt="Wikiwersytet" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" width="40" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div>
+</div>
+</div>
+<p><span class="plainlinks"><b><a class="external text" href="//wikiversity.org/">Wikiwersytet</a></b></span><br />
+Wolna edukacja</p>
+</div>
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="https://pl.wikibooks.org/wiki/" title="Wikibooks"><img alt="Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+</div>
+</div>
+<p><b><a href="https://pl.wikibooks.org/wiki/" class="extiw" title="b:">Wikibooks</a></b><br />
+Wolne podręczniki</p>
+</div>
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="https://pl.wikisource.org/wiki/" title="Wikiźródła"><img alt="Wikiźródła" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div>
+</div>
+</div>
+<p><b><a href="https://pl.wikisource.org/wiki/" class="extiw" title="s:">Wikiźródła</a></b><br />
+Wolna biblioteka</p>
+</div>
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="https://pl.wikivoyage.org/wiki/" title="Wikipodróże"><img alt="Wikipodróże" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></div>
+</div>
+</div>
+<p><b><a href="https://pl.wikivoyage.org/wiki/" class="extiw" title="voy:">Wikipodróże</a></b><br />
+Informacje turystyczne</p>
+</div>
+</div>
+<div style="float:left; width:33%; min-width:200px;">
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="https://www.wikidata.org/wiki/" title="Wikidane"><img alt="Wikidane" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/45px-Wikidata-logo.svg.png" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/68px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/90px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div>
+</div>
+</div>
+<p><b><a href="https://www.wikidata.org/wiki/" class="extiw" title="d:">Wikidane</a></b><br />
+Repozytorium danych</p>
+</div>
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="https://commons.wikimedia.org/wiki/" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</div>
+</div>
+<p><b><a href="https://commons.wikimedia.org/wiki/" class="extiw" title="commons:">Commons</a></b><br />
+Repozytorium mediów</p>
+</div>
+<div style="margin:auto;width:200px">
+<div style="float:left;width:50px;">
+<div class="center">
+<div class="floatnone"><a href="https://species.wikimedia.org/wiki/" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></div>
+</div>
+</div>
+<p><b><a href="https://species.wikimedia.org/wiki/" class="extiw" title="wikispecies:">Wikispecies</a></b><br />
+Katalog gatunków</p>
+</div>
+</div>
+<div style="line-height:0px;height:0px;clear:both"></div>
+</div>
+<div class="section" id="main-page-wikimedia">
+<h2><span class="mw-headline" id="Organizacja_i_promocja_Wikimedi.C3.B3w"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HSSamarbetecolor.svg/38px-HSSamarbetecolor.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HSSamarbetecolor.svg/57px-HSSamarbetecolor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HSSamarbetecolor.svg/76px-HSSamarbetecolor.svg.png 2x" data-file-width="156" data-file-height="156" /> Organizacja i promocja Wikimediów</span></h2>
+<div class="main-page-threecol">
+<p><a href="https://wikimediafoundation.org/wiki/Strona_g%C5%82%C3%B3wna" title="Wikimedia Foundation"><img alt="Wikimedia Foundation" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/55px-Wikimedia-logo-circle.svg.png" width="55" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/83px-Wikimedia-logo-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/110px-Wikimedia-logo-circle.svg.png 2x" data-file-width="700" data-file-height="700" /></a> <b><a href="https://wikimediafoundation.org/wiki/Strona_g%C5%82%C3%B3wna" class="extiw" title="wikimedia:Strona główna">Wikimedia Foundation</a></b> ponosi prawną i techniczną odpowiedzialność za Wikipedię.</p>
+<p><a href="https://pl.wikimedia.org/wiki/" title="Wikimedia Polska"><img alt="Wikimedia Polska" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wikimedia_Polska_logo.svg/50px-Wikimedia_Polska_logo.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wikimedia_Polska_logo.svg/75px-Wikimedia_Polska_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wikimedia_Polska_logo.svg/100px-Wikimedia_Polska_logo.svg.png 2x" data-file-width="285" data-file-height="285" /></a> <b><a href="https://pl.wikimedia.org/wiki/" class="extiw" title="wmpl:">Stowarzyszenie Wikimedia Polska</a></b> promuje i wspiera tworzenie Wikipedii w Polsce.</p>
+<p><a href="https://meta.wikimedia.org/wiki/Strona_g%C5%82%C3%B3wna" title="Meta-wiki"><img alt="Meta-wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/55px-HSWikimedia.svg.png" width="55" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/83px-HSWikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/110px-HSWikimedia.svg.png 2x" data-file-width="156" data-file-height="156" /></a> <b><a href="https://meta.wikimedia.org/wiki/Strona_g%C5%82%C3%B3wna" class="extiw" title="meta:Strona główna">Meta-Wiki</a></b> jest miejscem koordynacji wszystkich projektów Wikimedia.</p>
+</div>
+<div>
+<p>Jeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków <a href="/wiki/Wikipedia:Spo%C5%82eczno%C5%9B%C4%87_wikipedyst%C3%B3w" title="Wikipedia:Społeczność wikipedystów">społeczności</a>, m.in. u <a href="/wiki/Pomoc:Przewodnicy" title="Pomoc:Przewodnicy">przewodników</a> czy <a href="/wiki/Wikipedia:Administratorzy" title="Wikipedia:Administratorzy">administratorów</a>. Poznaj też inne formy <a href="/wiki/Wikipedia:Kontakt_z_wikipedystami" title="Wikipedia:Kontakt z wikipedystami">kontaktu z wikipedystami</a>.</p>
+</div>
+</div>
+</div>
+<div class="section" id="main-page-for-editors">
+<div class="footer">
+<p>Zobacz też: <a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna/Wczoraj" title="Wikipedia:Strona główna/Wczoraj">Strona główna z wczoraj</a> • <a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna/Jutro" title="Wikipedia:Strona główna/Jutro">Strona główna na jutro</a> • <a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna/Dokumentacja" title="Wikipedia:Strona główna/Dokumentacja">Dokumentacja</a></p>
+</div>
+</div>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1179
+Cached time: 20170207130212
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.120 seconds
+Real time usage: 0.176 seconds
+Preprocessor visited node count: 355/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23254/2097152 bytes
+Template argument size: 1450/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 4/500
+Lua time usage: 0.037/10.000 seconds
+Lua memory usage: 1.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   92.228      1 -total
+ 33.40%   30.800      1 Wikipedia:Strona_główna/Rocznice
+ 26.59%   24.522      1 Szablon:Wikiwydarzenia
+ 19.18%   17.692      1 Szablon:Ikona
+ 15.48%   14.279      1 Wikipedia:Strona_główna/Ilustracja_na_medal
+  8.62%    7.950      1 Wikipedia:Strona_główna/Czy_wiesz
+  7.11%    6.561      1 Wikiprojekt:Czy_wiesz/ekspozycje/2017-02-07
+  4.50%    4.154      1 Szablon:Wiek_w_dniach
+  3.81%    3.517      1 Wikipedia:Strona_główna/Artykuł_na_medal
+  3.60%    3.317      1 Wikipedia:Strona_główna/Dobry_artykuł
+-->
+
+<!-- Saved in parser cache with key plwiki:pcache:idhash:2956678-0!*!0!!*!4!* and timestamp 20170207130211 and revision id 45999232
+ -->
+<noscript><img src="//pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Źródło: „<a dir="ltr" href="https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_główna&amp;oldid=45999232">https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_główna&amp;oldid=45999232</a>”					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Specjalna:Kategorie" title="Specjalna:Kategorie">Kategoria</a>: <ul><li><a href="/wiki/Kategoria:Strona_g%C5%82%C3%B3wna" title="Kategoria:Strona główna">Strona główna</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu nawigacyjne</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Narzędzia osobiste</h3>
+						<ul>
+							<li id="pt-anonuserpage">Nie jesteś zalogowany</li><li id="pt-anontalk"><a href="/wiki/Specjalna:Moja_dyskusja" title="Dyskusja użytkownika dla tego adresu IP [n]" accesskey="n">Dyskusja</a></li><li id="pt-anoncontribs"><a href="/wiki/Specjalna:M%C3%B3j_wk%C5%82ad" title="Lista edycji wykonanych z tego adresu IP [y]" accesskey="y">Edycje</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&amp;returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to obowiązkowe.">Utwórz konto</a></li><li id="pt-login"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]" accesskey="o">Zaloguj się</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Przestrzenie nazw</h3>
+						<ul>
+															<li  id="ca-nstab-project" class="selected"><span><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna"  title="Zobacz stronę projektu [a]" accesskey="a">Strona główna</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Dyskusja_Wikipedii:Strona_g%C5%82%C3%B3wna"  title="Dyskusja o zawartości tej strony [t]" accesskey="t" rel="discussion">Dyskusja</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Warianty</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Widok</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" >Czytaj</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;action=edit"  title="Ta strona jest zabezpieczona. Możesz zobaczyć tekst źródłowy. [e]" accesskey="e">Tekst źródłowy</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;action=history"  title="Starsze wersje tej strony. [h]" accesskey="h">Historia i autorzy</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Więcej</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Szukaj</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Przeszukaj Wikipedię" title="Przeszukaj Wikipedię [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Specjalna:Szukaj" name="title"/><input type="submit" name="fulltext" value="Szukaj" title="Szukaj wprowadzonego tekstu w treści stron" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Przejdź" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna"  title="Strona główna"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Nawigacja</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]" accesskey="z">Strona główna</a></li><li id="n-randompage"><a href="/wiki/Specjalna:Losowa_strona" title="Załaduj losową stronę [x]" accesskey="x">Losuj artykuł</a></li><li id="n-Kategorie"><a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne">Kategorie artykułów</a></li><li id="n-Featured-articles"><a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii">Najlepsze artykuły</a></li><li id="n-FAQ"><a href="/wiki/Pomoc:FAQ">Częste pytania (FAQ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-zmiany' aria-labelledby='p-zmiany-label'>
+			<h3 id='p-zmiany-label'>Dla czytelników</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-czytelnicy"><a href="/wiki/Wikipedia:O_Wikipedii">O Wikipedii</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_artykule">Zgłoś błąd</a></li><li id="n-bad-image"><a href="/wiki/Wikipedia:Zg%C5%82oszone_grafiki">Zgłoś błąd w pliku</a></li><li id="n-contact"><a href="/wiki/Wikipedia:Kontakt_z_wikipedystami">Kontakt</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_pl.wikipedia.org&amp;uselang=pl" title="Pomóż nam">Wspomóż Wikipedię</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-edytorzy' aria-labelledby='p-edytorzy-label'>
+			<h3 id='p-edytorzy-label'>Dla wikipedystów</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-pierwsze-kroki"><a href="/wiki/Pomoc:Pierwsze_kroki">Pierwsze kroki</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Portal_wikipedyst%C3%B3w" title="O projekcie - co możesz zrobić, gdzie możesz znaleźć informacje">Portal wikipedystów</a></li><li id="n-Noticeboard"><a href="/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84">Ogłoszenia</a></li><li id="n-Guidelines"><a href="/wiki/Wikipedia:Zasady">Zasady</a></li><li id="n-helppage-name"><a href="/wiki/Pomoc:Spis_tre%C5%9Bci">Pomoc</a></li><li id="n-recentchanges"><a href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian w Wikipedii. [r]" accesskey="r">Ostatnie zmiany</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Narzędzia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Specjalna:Linkuj%C4%85ce/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Pokaż listę wszystkich stron linkujących do tej strony [j]" accesskey="j">Linkujące</a></li><li id="t-recentchangeslinked"><a href="/wiki/Specjalna:Zmiany_w_linkowanych/Wikipedia:Strona_g%C5%82%C3%B3wna" rel="nofollow" title="Ostatnie zmiany w stronach, do których ta strona linkuje [k]" accesskey="k">Zmiany w linkowanych</a></li><li id="t-upload"><a href="//pl.wikipedia.org/wiki/Wikipedia:Prześlij_plik" title="Prześlij pliki [u]" accesskey="u">Prześlij plik</a></li><li id="t-specialpages"><a href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich specjalnych stron [q]" accesskey="q">Strony specjalne</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;oldid=45999232" title="Stały link do tej wersji strony">Link do tej wersji</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;action=info" title="Więcej informacji na temat tej strony">Informacje o tej stronie</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Link do powiązanego elementu w repozytorium danych [g]" accesskey="g">Element Wikidanych</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Drukuj lub eksportuj</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AStrona+g%C5%82%C3%B3wna">Utwórz książkę</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=render_article&amp;arttitle=Wikipedia%3AStrona+g%C5%82%C3%B3wna&amp;returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna&amp;oldid=45999232&amp;writer=rdf2latex">Pobierz jako PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;printable=yes" title="Wersja do wydruku [p]" accesskey="p">Wersja do druku</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>W innych projektach</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://pl.wikibooks.org/wiki/Wikibooks:Strona_g%C5%82%C3%B3wna" hreflang="pl">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidane</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://pl.wikinews.org/wiki/Strona_g%C5%82%C3%B3wna" hreflang="pl">Wikinews</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://pl.wikiquote.org/wiki/Strona_g%C5%82%C3%B3wna" hreflang="pl">Wikicytaty</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna" hreflang="pl">Wikiźródła</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://pl.wikivoyage.org/wiki/Strona_g%C5%82%C3%B3wna" hreflang="pl">Wikipodróże</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>W innych językach</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="arabski" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/" title="białoruski" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/" title="беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/" title="bośniacki" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="bułgarski" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/" title="bengalski" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/" title="bretoński" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="kataloński" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="czeski" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="duński" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="niemiecki" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/" title="dolnołużycki" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="estoński" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="grecki" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="angielski" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="hiszpański" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="baskijski" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="perski" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="francuski" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="galicyjski" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="koreański" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/" title="ormiański" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/" title="górnołużycki" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="chorwacki" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/" title="ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="indonezyjski" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/" title="islandzki" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="włoski" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="hebrajski" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/" title="gruziński" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/" title="kaszubski" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/" title="kazachski" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="łaciński" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/" title="luksemburski" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="litewski" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="węgierski" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="malajski" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="niderlandzki" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="japoński" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/" title="macedoński" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="norweski" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="norweski (nynorsk)" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="portugalski" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="rumuński" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="rosyjski" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="serbsko-chorwacki" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="słowacki" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="słoweński" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/" title="śląski" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="serbski" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="fiński" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="szwedzki" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/" title="tajski" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="wietnamski" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/" title="telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="turecki" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ukraiński" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="chiński" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Tę stronę ostatnio zmodyfikowano o 00:05, 10 cze 2016.</li>
+											<li id="footer-info-copyright">Tekst udostępniany na <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/Warunki_korzystania">warunkach korzystania</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Polityka ochrony prywatności</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:O_Wikipedii" title="Wikipedia:O Wikipedii">O Wikipedii</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87" title="Wikipedia:Korzystasz z Wikipedii tylko na własną odpowiedzialność">Korzystasz z Wikipedii tylko na własną odpowiedzialność</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Dla deweloperów</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Komunikat na temat ciasteczek</a></li>
+											<li id="footer-places-mobileview"><a href="//pl.m.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Wersja dla urządzeń mobilnych</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.176","ppvisitednodes":{"value":355,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23254,"limit":2097152},"templateargumentsize":{"value":1450,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   92.228      1 -total"," 33.40%   30.800      1 Wikipedia:Strona_główna/Rocznice"," 26.59%   24.522      1 Szablon:Wikiwydarzenia"," 19.18%   17.692      1 Szablon:Ikona"," 15.48%   14.279      1 Wikipedia:Strona_główna/Ilustracja_na_medal","  8.62%    7.950      1 Wikipedia:Strona_główna/Czy_wiesz","  7.11%    6.561      1 Wikiprojekt:Czy_wiesz/ekspozycje/2017-02-07","  4.50%    4.154      1 Szablon:Wiek_w_dniach","  3.81%    3.517      1 Wikipedia:Strona_główna/Artykuł_na_medal","  3.60%    3.317      1 Wikipedia:Strona_główna/Dobry_artykuł"]},"scribunto":{"limitreport-timeusage":{"value":"0.037","limit":"10.000"},"limitreport-memusage":{"value":1684155,"limit":52428800},"limitreport-logs":"Ilustracja na medal/biologia (17204, 716, 21)\nfrequency: 7, index: 6, displays: 5018, galleryIndex: 7, filestamp: 716\nPlik:Młoda sowa śnieżna.jpg|[[Puchacz śnieżny]]| (7, 716, 12)\nstatus: SUCCEEDED, result: \u003Cdiv style=\"text-align:center; clear:both;\"\u003E[[Plik:Młoda sowa śnieżna.jpg|400x400px]]\u003Cdiv style=\"margin-top:5px;\"\u003E[[Puchacz śnieżny]]\u003Cbr /\u003E\u003C/div\u003E\u003C/div\u003E\nIlustracja na medal/biologia (17204, 716, 21)\nfrequency: 7, index: 6, displays: 5018, galleryIndex: 7, filestamp: 716\nPlik:Młoda sowa śnieżna.jpg|[[Puchacz śnieżny]]| (7, 716, 12)\nstatus: SUCCEEDED, result: \u003Cdiv style=\"text-align:center; clear:both;\"\u003E[[Plik:Młoda sowa śnieżna.jpg|400x400px]]\u003Cdiv style=\"margin-top:5px;\"\u003E[[Puchacz śnieżny]]\u003Cbr /\u003E\u003C/div\u003E\u003C/div\u003E\n"},"cachereport":{"origin":"mw1179","timestamp":"20170207130212","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1269"});});</script>
+	</body>
+</html>
