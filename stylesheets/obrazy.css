@@ -1,0 +1,36 @@
+div #dodatki {
+	background-image: url("../images/pattern.gif");
+}
+div {
+	float: left;
+	margin: 10px;
+	padding: 10px
+	background: black;
+}
+img .large {
+	width: 500px;
+	height: 500px;
+}
+img .medium {
+	width: 250px;
+	height: 250px;
+}
+img .small {
+	width: 100px;
+	height:100px;
+}
+
+/* style do wyrownywania obrazow. */
+
+img.align-left {
+	float: left;
+	margin-right: 10px;
+}
+img.align-right {
+	float: right;
+	margin-left: 10px;
+}
+img.align-center {
+	display: block;
+	margin: 0px auto;
+}
