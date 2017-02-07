@@ -1,0 +1,31 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+#content {
+  overflow: auto;
+}
+.artykul1, .artykul2, .artykul3 {
+  width: 31.3%;
+  float: left;
+  margin: 1.5%;
+}
+.artykul1 {
+  margin-left: 0%;
+}
+.artykul3 {
+  margin-right: 0%;
+}
+li {
+  display: inline;
+  padding: 0.5em 0;
+}
+#dodatki, .kolumna {
+  height: 10em;
+  margin-bottom: 1em;
+  background-color: silver;
+}
+#nav, #footer {
+  background-color: gray;
+  padding: 0.5em 0;
+}
