@@ -8,20 +8,99 @@
   </head>
 
   <body>
-    <div id="header"><!-- początek nagłówka strony -->
-      <h1>Moje logo</h1>
-      <div id="nav"><!-- elementy nawigacji -->
+  <div id="page">
+    <header>
+      <h1>Testowanie HTML CSS i javascript.</h1>
+      <nav>
         <ul>
+          <li><a href="index.html" class="current">Strona główna</a></li>
           <li><a href="hello-world.html">Hello World</a></li>
-          <li><a href="indexa.html">Układ o stałej szerokości</a></li>
-          <li><a href="indexb.html">Układ elastyczny</a></li>
-          <li><a href="960GS/index.html">Platforma 960.GS</a></li>
-          <li><a href="grafika/index.html">Grafika na stronie.</a></li>
           <li><a href="">Kontakt</a></li>
         </ul>
-      </div>
-    </div><!-- koniec nagłówka strony -->
-
-
+      </nav>
+    </header>
+    
+    <div id="content">
+      <article>
+        <hgroup>
+          <h3>Pierwszy artykół</h3>
+        </hgroup>
+        <figure>
+          <img src="images/rails.png" alt="rails" />
+          <figcaption>Rails</figcaption>
+        </figure>
+        <p>
+          To jest tekst przykładowy artykułu.
+          To jest tekst przykładowy artykułu.
+          To jest tekst przykładowy artykułu.
+          To jest tekst przykładowy artykułu.
+          To jest tekst przykładowy artykułu.
+        </p>
+      </article>
+      <article>
+        <hgroup>
+          <h3>Drugi artykół</h3>
+        </hgroup>
+        <figure>
+          <img src="images/logo-jquery.gif" alt="magnolia" class="small" />
+          <figcaption>Magnolia</figcaption>
+        </figure>
+        <p>
+          To jest tekst przykładowy drugiego artykułu.
+          To jest tekst przykładowy drugiego artykułu.
+          To jest tekst przykładowy drugiego artykułu.
+          To jest tekst przykładowy drugiego artykułu.
+          To jest tekst przykładowy drugiego artykułu.
+          To jest tekst przykładowy drugiego artykułu.
+        </p>
+      </article>
+      <article>
+        <hgroup>
+          <h3>Javascript</h3>
+        </hgroup>
+        <figure>
+          <img src="images/nowe-logo.png" alt="magnolia" class="small" />
+          <figcaption>Magnolia</figcaption>
+        </figure>
+        <p>
+          To jest tekst przykładowy trzeciego artykułu.
+          To jest tekst przykładowy trzeciego artykułu.
+          To jest tekst przykładowy trzeciego artykułu.
+          To jest tekst przykładowy trzeciego artykułu.
+          To jest tekst przykładowy trzeciego artykułu.
+          To jest tekst przykładowy trzeciego artykułu.
+        </p>
+      </article>
+    </div>
+    <aside>
+      <section class="odnosniki_aside">
+        <hgroup>
+          <h3>HTML CSS</h3>
+        </hgroup>
+        <a href="indexa.html">Układ o stałej szerokości</a><br />
+        <a href="indexb.html">Układ elastyczny</a><br />
+        <a href="960GS/index.html">Platforma 960.GS</a><br />
+        <a href="grafika/index.html">Grafika na stronie.</a><br />
+      </section>
+      <section class="javascript.">
+        <hgroup>
+          <h3>Javascript JQuery.</h3>
+        </hgroup>
+        <a href="/javascripts/index.html">Java Script.</a>
+      </section>
+      <section class="kontakt">
+        <hgroup>
+          <h3>Kontakt</h3>
+        </hgroup>
+        <p>Maciej Sypniewski<br />
+        tel. 725 112 814<br />
+        msypniewski511@interia.pl</p>
+      </section>
+    </aside>
+    <footer>
+      &copy; 2017 Maciej Sypniewski
+    </footer>
+    
+    </div>
   </body>
 </html>
