@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Wyświetl datę</title>
+    <script>
+      function printDate() {
+        var today = new Date();
+        document.write(today.toDateString());
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Funkcje.</h1>
+    <p>Dziś jest <strong>
+      <script>
+        printDate();
+      </script>
+    </strong></p>
+    <a href="../index.html">Powrót</a>
+  </body>
+</html>

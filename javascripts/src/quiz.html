@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Quiz</title>
+    <script>
+      var score = 0;
+      var pytania = [
+          ['Ile księżyców ma ziemia?', 1],
+          ['Ile księżyców ma saturn?', 31],
+          ['Ile księżyców ma Wenus?', 0]
+        ];
+        
+        function askQuestion(pytanie) {
+          var answer = prompt(pytanie[0], '');
+          if (answer == pytanie[1]) {
+            alert("Prawidłowa odpowiedź!");
+            score++;
+          } else {
+            alert("Błąd. Prawidłowa odpowiedź to: " + pytanie[1]);
+          }
+        }
+        for (var i = 0; i < pytania.length; i++) {
+          askQuestion(pytania[i]);
+        }
+    </script>
+  </head>
+  <body>
+    <h1>Quiz.</h1>
+    <p>Ilość prawidłowych odpowiedzi: <strong>
+      <script>
+        document.write(score + 'na ' + pytania.length + 'pytania.');
+      </script>
+    </strong></p>
+    <a href="../index.html">Powrót</a>
+  </body>
+</html>

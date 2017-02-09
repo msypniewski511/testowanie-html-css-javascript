@@ -6,12 +6,17 @@
     <title>JavaScript JQuery.</title>
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
     <link href="../stylesheets/styl-glowny.css" type="text/css" rel="stylesheet">
+    <script>
+       $(document).ready(function(){
+        $('body').hide().fadeIn(3000);
+      });
+    </script>
   </head>
 
   <body>
   <div id="page">
     <header>
-      <h1>Testowanie javascript.</h1>
+      <h1>Testowanie JQuery.</h1>
       <nav>
         <ul>
           <li><a href="index.html" class="current">Strona główna</a></li>
@@ -31,28 +36,44 @@
           <figcaption>Rails</figcaption>
         </figure>
         <p>
-          To jest tekst przykładowy artykułu.
-          To jest tekst przykładowy artykułu.
-          To jest tekst przykładowy artykułu.
-          To jest tekst przykładowy artykułu.
-          To jest tekst przykładowy artykułu.
+          <strong>Znaczna część zadań, do jakich będziemy używali JavaScriptu, sprowadza się do manipulowania 
+          stronami WWW poprzez dodawanie do nich nowych treści, modyfikację 
+          ich oryginalnego kodu HTML bądź też przypisywanie stylów do wybranych elementów.</strong>
+          <ul class="artykul">
+            <li>1. Wybranie odpowiedniego elementu strony.</li><br />
+            <li>2. Wykonanie na tym elemencie pewnych operacji.</li>
+          </ul>
         </p>
       </article>
       <article>
         <hgroup>
-          <h3>Drugi artykół</h3>
+          <h3>Dołączanie pliku jQuery z serwera CDN</h3>
         </hgroup>
         <figure>
           <img src="../images/logo-jquery.gif" alt="magnolia" class="small" />
-          <figcaption>Magnolia</figcaption>
+          <figcaption>JQuery</figcaption>
         </figure>
         <p>
-          To jest tekst przykładowy drugiego artykułu.
-          To jest tekst przykładowy drugiego artykułu.
-          To jest tekst przykładowy drugiego artykułu.
-          To jest tekst przykładowy drugiego artykułu.
-          To jest tekst przykładowy drugiego artykułu.
-          To jest tekst przykładowy drugiego artykułu.
+          Zarówno Microsoft, jQuery, jak i Google pozwalają korzystać na własnych witrynach
+          z biblioteki jQuery pobieranej z ich serwerów. Aby na przykład skorzystać
+          z wersji 1.6.3 biblioteki pobieranej z serwera CDN firmy Microsoft, w sekcji nagłówka
+          naszej strony (tuż przed zamykającym znacznikiem </head>) musielibyśmy
+          umieścić znacznik o następującej postaci:<figure>
+          &lt;script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.3.min.js"&gt;
+          &lt;/script&gt;</figure>
+          Gdybyśmy chcieli skorzystać z serwera CDN jQuery, musielibyśmy użyć następującego 
+          kodu:
+          <figure>
+            &lt;script src="http://code.jquery.com/jquery-1.6.3.min.js"&gt;&lt;/script&gt;
+          </figure>
+          Poniższy kod pozwala użyć serwera CDN firmy Google:
+          <figure>
+            &lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"&gt;&lt;/script&gt;
+          </figure>
+          Na naszej stronie powinniśmy umieścić tylko jeden z powyższych znaczników, zależnie
+          od tego, z której sieci dystrybucji chcemy skorzystać. Najpopularniejsza jest
+          chyba sieć firmy Google, jeśli zatem nie wiesz, z której z nich skorzystać, wybierz
+          właśnie tę.
         </p>
       </article>
       <article>
@@ -85,21 +106,14 @@
         <hgroup>
           <h3>Javascript - podstawy.</h3>
         </hgroup>
-        <a href="/javascripts/src/1.html">Kod JavaScript osadzony.</a><br />
-        <a href="/javascripts/src/2.html">Kod JavaScript dołączany.</a><br />
-        <a href="/javascripts/src/use_variable.html">Używanie zmiennych.</a><br />
-        <a href="/javascripts/src/prompt.html">Pobieranie informacji</a><br />
-        <a href="/javascripts/src/arrays.html">Tablice.</a><br />
-        <a href="/javascripts/src/conditional.html">Używanie instukcji warunkowych.</a><br />
-        <a href="/javascripts/src/print_date.html">Funkcje</a><br />
-        <a href="/javascripts/src/quiz.html">Quiz</a>
+        <a href="../javascripts/index.html" class="menu">JavaScript.</a><br />
         <br />
       </section>
       <section class="jquery">
         <hgroup>
           <h3>JQuery.</h3>
         </hgroup>
-        <a href="../jquery/index.html" class="menu">Menu jQuery.</a>
+        <a href="">jQuery z serwera CDN</a>
       </section>
       <section class="kontakt">
         <hgroup>
